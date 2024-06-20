@@ -1,0 +1,37 @@
+# # Skills
+# # Organizational leadership
+# - skill: Organizational leadership
+#   description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+
+# # Communications strategy
+# - skill: Communications strategy
+#   description: Content and marketing strategy,
+
+# # Digital content development and creation
+# - skill: Digital content development and creation
+#   description: Copy writing, graphic design, web design, front-end web development, print design
+
+# Skills
+- skill: Java (Core, Advanced)
+  description: Proficient in Core and Advanced Java concepts.
+
+- skill: SQL (Basics)
+  description: Basic understanding of SQL and database management.
+
+- skill: JavaScript (Node.js, Express.js)
+  description: Experience in server-side development with Node.js and Express.js.
+
+- skill: Android Studio
+  description: Skilled in using Android Studio for mobile application development.
+
+- skill: NetBeans, Eclipse, VSCode
+  description: Familiar with these integrated development environments.
+
+- skill: Android, Spring
+  description: Knowledgeable in Android development and the Spring framework.
+
+- skill: Firebase Database, MySQL, MongoDB
+  description: Experienced with these cloud and database technologies.
+
+- skill: Communication, Teamwork
+  description: Strong communication skills and ability to work effectively in teams.

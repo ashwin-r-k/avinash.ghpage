@@ -1,0 +1,20 @@
+# # Recognitions
+# - award: Outstanding Achievement
+#   organization: Springfield Young Professionals
+#   year: 2010, 2014
+#   summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+
+# - award: Most Likely To Succeed
+#   organization: Springfield High School
+#   year: 2004
+#   summary: Voted Most Likely To Succeed by a panel of my high school peers.
+# Recognitions
+- award: 200+ DSA Questions Solved Across Platforms
+  organization: Leetcode, GFG, HackerRank
+  year: 2024
+  summary: Solved over 200 Data Structures and Algorithms questions on various competitive programming platforms.
+
+- award: Scored 505/1000 in Gate CSE 2024
+  organization: GATE (Graduate Aptitude Test in Engineering)
+  year: 2024
+  summary: Achieved a score of 505 out of 1000 in the GATE CSE 2024 exam.

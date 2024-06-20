@@ -1,0 +1,39 @@
+# # Projects
+# # uncomment the urls if you wish to display them, and add your own URL
+
+# # jazznotes.io
+# - project: jazznotes.io
+#   role: Founder & Primary Developer
+#   duration: 2012 &mdash; Present
+#   # url: "#"
+#   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+
+# # Springfield Community Outreach Group
+# - project: Springfield Community Outreach Group
+#   role: Co-Founder & Organizer
+#   duration: 2007 &mdash; Present
+#   # url: "#"
+#   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+# Projects
+- project: Rider GPS and SOS
+  role: Developer
+  duration: Jan-21 To May-21
+  # url: "https://github.com/kharatsonu358/Rider_GPS_SOS.git"
+  description: |
+    An SOS application for two-wheeler riders that alerts registered contacts in case of an accident via SMS, providing them with time and location links that open in Google Maps. It also includes a speedometer and a shortcut search to Google Maps. Tools & technologies used: XML, Java, Android Studio, Firebase Database.
+
+- project: Splitify
+  role: Developer
+  duration: Dec-22 To Apr-23
+  # url: 
+  description: |
+    A web application to simplify splitting expenses among friends, roommates, or colleagues. Users can create groups, add expenses, and settle balances with ease. Implemented CRUD operations using Java, JDBC, and MySQL, and ran the application on Apache Tomcat. Tools & technologies used: Java, JDBC, MySQL 8.0.32, Apache Tomcat 9.0.
+
+- project: Saas Provider
+  role: Developer
+  duration: Nov-23 To Feb-24
+  # url: 
+  description: |
+    A comprehensive SaaS platform combining a Node.js backend with a React frontend, integrated with Stripe for secure payment processing. Features include Super Admin management of SaaS plans and users, an intuitive interface for browsing plans, managing a shopping cart, user authentication, and secure payment processing. Tools & technologies used: React.js, Express, MongoDb, Node.js.
+
